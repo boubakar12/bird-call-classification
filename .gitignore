@@ -1,0 +1,10 @@
+echo "train/
+test/
+*.npy
+my_submission*.csv
+*.wav
+*.mp3
+*.flac
+train.csv
+sample_submit.csv
+" > .gitignore
